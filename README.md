@@ -1,2 +1,2 @@
-# safeentry-pass-code
+# Safe Entry
 code to generate fake Safe Entry Passes.
